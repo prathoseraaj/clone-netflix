@@ -4,8 +4,8 @@ import './Footer.css';
 const Footer = () => {
   return (
     <div className='footer'>
-        <div className='footer-col'>
             <p>Questions? Call 1-866-579-7172</p>
+        <div className='footer-cols'>
             <ul>
                 <li><a href="#">FAQ</a></li>
                 <li><a href="#">Investors Relations</a></li>
